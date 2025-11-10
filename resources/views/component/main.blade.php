@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>RV Jewellers | Elegant Gold & Diamond Jewellery in India</title>
+  <title>BBB Jewellers | Elegant Gold & Diamond Jewellery in India</title>
 
   <!-- SEO Meta Tags -->
   <meta name="description" content="Explore a stunning range of gold, diamond, and bridal jewellery at RV Jewellers. Trusted craftsmanship and timeless designs to suit every occasion." />
