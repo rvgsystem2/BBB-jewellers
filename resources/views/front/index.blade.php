@@ -418,7 +418,7 @@
                         <div class="pt-4">
                             <h4 class="sr-only text-lg font-medium text-gray-800 mb-3">Follow Us</h4>
                             <div class="flex space-x-4">
-                                <a href="#" target="_blank"
+                                <a href="https://www.facebook.com/profile.php?id=61572687476655 " target="_blank"
                                     rel="noopener noreferrer"
                                     class="text-gray-600 hover:text-amber-600 transition-colors duration-300"
                                     aria-label="Facebook - Rvjewellers">
@@ -433,7 +433,8 @@
                                 </a>
 
 
-                                <a href="#"
+                                <a href="https://www.instagram.com/bharatbhushanbhandarjewellers/
+"
                                     class="text-gray-600 hover:text-amber-600 transition-colors duration-300">
                                     <span class="sr-only">Instagram</span>
                                     <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">

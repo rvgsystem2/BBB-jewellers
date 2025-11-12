@@ -79,7 +79,7 @@
       <span class="text-sm">Design and Developed by <a href="https://realvictorygroups.com/" class="hover:underline">Real Victory Groups</a></span>
       <div class="flex space-x-5">
         <!-- Facebook -->
-        <a href="#" class="hover:text-white transition" aria-label="Facebook">
+        <a href="https://www.facebook.com/profile.php?id=61572687476655 " class="hover:text-white transition" aria-label="Facebook">
           <i class="fab fa-facebook-f text-xl"></i>
         </a>
         <!-- Twitter -->
@@ -87,7 +87,8 @@
           <i class="fab fa-twitter text-xl"></i>
         </a> --}}
         <!-- Instagram -->
-        <a href="#" class="hover:text-white transition" aria-label="Instagram">
+        <a href="https://www.instagram.com/bharatbhushanbhandarjewellers/
+" class="hover:text-white transition" aria-label="Instagram">
           <i class="fab fa-instagram text-xl"></i>
         </a>
         <!-- LinkedIn -->

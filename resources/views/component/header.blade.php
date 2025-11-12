@@ -13,8 +13,9 @@
 
       <!-- Social Icons -->
       <div class="flex justify-center md:justify-end items-center gap-3 text-gray-50">
-        <a href="#" class="hover:text-yellow-600"><i class="fab fa-facebook-f"></i></a>
-        <a href="#" class="hover:text-yellow-600"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=61572687476655 " class="hover:text-yellow-600"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://www.instagram.com/bharatbhushanbhandarjewellers/
+" class="hover:text-yellow-600"><i class="fab fa-instagram"></i></a>
 
       </div>
 
