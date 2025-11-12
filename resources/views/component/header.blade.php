@@ -6,9 +6,9 @@
 
       <!-- Contact Info -->
       <div class="flex flex-col sm:flex-row items-center gap-2 text-gray-50">
-        <a href="tel:+918707656944"></a><span><i class="fas fa-phone-alt mr-1 text-gray-50"></i> +91  9934004260</span>
-                <a href="tel:++919389859821"></a><span><i class="fas fa-phone-alt mr-1 text-gray-50"></i> +919934004260</span>
-        <span><i class="fas fa-envelope mr-1 text-gray-50"></i>   bharatbhushanbhandar@gmail.com</span>
+        <a href="tel:+918707656944"></a><span><i class="fas fa-phone-alt mr-1 text-gray-50"></i> +91  6287005000</span>
+                <a href="tel:++919389859821"></a><span><i class="fas fa-phone-alt mr-1 text-gray-50"></i> +916287005000</span>
+        <span><i class="fas fa-envelope mr-1 text-gray-50"></i>  bbbjewellers@gmail.com </span>
       </div>
 
       <!-- Social Icons -->
