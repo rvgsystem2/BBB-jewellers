@@ -205,7 +205,7 @@
 
 
     <!-- Our Channel Section -->
-<section class="bg-white py-12">
+{{-- <section class="bg-white py-12">
     <div class="container mx-auto px-4 text-center">
         <h2 class="text-3xl font-bold text-gray-800 mb-4">📺 Our YouTube Channel</h2>
         <p class="text-gray-600 mb-6">Watch latest jewellery designs, behind the scenes, and special videos from RV Jewellers.</p>
@@ -228,7 +228,7 @@
         </div>
 
     </div>
-</section>
+</section> --}}
 
 
 

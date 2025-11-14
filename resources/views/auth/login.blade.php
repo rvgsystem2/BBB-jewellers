@@ -7,7 +7,8 @@
          @csrf
          <div class="flex justify-center">
             <a href="/" class="text-2xl font-bold text-yellow-600 bg-white p-4 tracking-wide">
-                RV<span class="text-gray-800">Jewellers</span>
+                <img src="{{asset('asset/img/BBBJ-Frame[1].png')}}" alt="" class="h-16 w-80 ">
+
             </a>
          </div>
          <!-- Email Address -->
